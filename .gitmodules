@@ -1,0 +1,3 @@
+[submodule "catppuccin-bento"]
+	path = catppuccin-bento
+	url = https://github.com/catppuccin/bento.git
